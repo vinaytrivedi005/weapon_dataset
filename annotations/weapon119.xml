@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AK47</folder>
+	<filename>weapon119.jpeg</filename>
+	<path>/home/crupanshu/PycharmProjects/WeaponDataset/weapon_data/AK47/weapon119.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AK47 Rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>213</ymin>
+			<xmax>511</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>
